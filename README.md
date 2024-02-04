@@ -1,5 +1,5 @@
 # Oppgave statistikk 2024
 
-(Notebook med kode)[./oppgaverNotebook.ipynb]
+[Notebook med kode](./oppgaverNotebook.ipynb)
 
-(Besvarelse)[./obligStatistikkBesvarelse.pdf]
+[Besvarelse](./obligStatistikkBesvarelse.pdf)
