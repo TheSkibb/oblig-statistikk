@@ -2,7 +2,7 @@
 
 *Kristian Skibrek*
 
-all kode for oppgaven er tilgjengelig på [github](legg til url her)
+all kode for oppgaven er tilgjengelig på [github](https://github.com/TheSkibb/oblig-statistikk)
 
 ## Oppgave 1
 
